@@ -42,7 +42,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Simple and Intuitive Food Journal # Optional
+marketing_header: A simple and intuitive food journal # Optional
 marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 #
@@ -81,7 +81,7 @@ device: iphone-se-silver-vertical # REQUIRED
 # Theme Settings
 #
 background_color: "#989898" # Optional
-background_image: images/backgrounds/KitchenTable.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_image: images/backgrounds/burger.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
