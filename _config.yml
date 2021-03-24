@@ -80,11 +80,11 @@ device: iphone-se-silver-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: white # Optional
+background_color: "#989898" # Optional
 background_image: images/backgrounds/cake.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
-text_color: black # Optional
+text_color: white # Optional
 link_color: # Optional
-social_link_color: black # Optional
+social_link_color: white # Optional
 download_button_background_color: "#0191FF" # Optional
 download_button_text_color: white; # Optional
 
