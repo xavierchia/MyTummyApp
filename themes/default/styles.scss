@@ -18,7 +18,7 @@ body {
   {% endif %}
 
   {% if site.background_image %}
-  background: linear-gradient(rgba(59, 61, 64, 1), rgba(59, 61, 64, 0.5)), url(../../{{ site.background_image }}) no-repeat center top;
+  background: linear-gradient(rgba(59, 61, 64, 1), rgba(59, 61, 64, 0)), url(../../{{ site.background_image }}) no-repeat center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -78,7 +78,7 @@ a:hover {
 }
 
 .app-meta {
-  margin-top: 90px;
+  margin-top: 40px;
   margin-bottom: 20px;
   font-size: 32px;
   font-weight: bold;
