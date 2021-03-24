@@ -18,11 +18,11 @@ body {
   {% endif %}
 
   {% if site.background_image %}
-  background: linear-gradient(rgba(59, 61, 64, 1), rgba(59, 61, 64, 0)), url(../../{{ site.background_image }}) no-repeat center top;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
+  background: linear-gradient(rgba(59, 61, 64, 1), rgba(59, 61, 64, 0)), url(../../{{ site.background_image }}) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   {% endif %}
 
   {% if site.text_color %}
