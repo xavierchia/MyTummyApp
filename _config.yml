@@ -56,7 +56,7 @@ social-links:
   twitter:
   pinterest:
   instagram:
-  email:
+  email: xavier.cpy@gmail.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -93,8 +93,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: MyTummy App # Optional - Enter your site title
+description: A simple food journal # Optional - Enter your site description
 
 #
 # Google Analytics
