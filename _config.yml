@@ -43,7 +43,8 @@ app:
 # Marketing
 #
 marketing_header: A simple food journal # Optional
-marketing_desc: Ever since I was a little kid, I've loved food... a little too much. I made MyTummy to help take control of my eating habits. I hope you find it useful. 🤓
+marketing_desc: Ever since I was a little kid, I've loved food... \na little too much. 
+\nI made MyTummy to help take control of my eating habits. \nI hope you find it useful. 🤓
 
 #
 # Social Links
