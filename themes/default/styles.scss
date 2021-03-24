@@ -18,7 +18,7 @@ body {
   {% endif %}
 
   {% if site.background_image %}
-  background: linear-gradient(rgba(59, 61, 64, 0), rgba(59, 61, 64, 0.9)), url(../../{{ site.background_image }}) no-repeat center top;
+  background: linear-gradient(rgba(59, 61, 64, 1), rgba(59, 61, 64, 0)), url(../../{{ site.background_image }}) no-repeat center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
