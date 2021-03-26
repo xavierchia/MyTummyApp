@@ -43,7 +43,7 @@ app:
 # Marketing
 #
 marketing_header: Your emotional eating friend # Optional
-marketing_desc: Do you love food too much? Me too. That's why I created EmoTummy. A simple and intuitive way to change your relationship with food.
+# marketing_desc: Do you love food too much? Me too. That's why I created EmoTummy. A simple and intuitive way to change your relationship with food.
 
 #
 # Social Links
@@ -65,7 +65,7 @@ social-links:
 #
 enable:
   app_icon: true
-  smart_app_banner: true
+  smart_app_banner: false
 
 #
 # Device
