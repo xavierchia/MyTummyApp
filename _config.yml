@@ -80,8 +80,8 @@ device: iphone-se-silver-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: "#989898" # Optional
-background_image: images/backgrounds/cakeTall.png # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_color: "#f6efe8" # Optional same as Slack homepage
+background_image: # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: black # Optional
 link_color: # Optional
 social_link_color: "#0191FF" # Optional
