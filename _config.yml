@@ -8,11 +8,11 @@
 # General App Info
 #
 app:
-  name: MyTummy # REQUIRED - Enter your app name
+  name: EmoTummy # REQUIRED - Enter your app name
   ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
-  icon: images/MyTummyAppIcon.png # Leave blank to auto-magically populate
+  icon: images/EmoTummyIconRounded.png # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Love eating but hate your waistline? # Optional
-marketing_desc: I know that feeling too, so I created MyTummy to deal with unruly eating habits. Track your food, notice your habits, and most importantly - take control of your body.
+marketing_header: Your emotional eating friend # Optional
+marketing_desc: Do you love food too much? Me too. That's why I created EmoTummy. A simple and intuitive way to change your relationship with food.
 
 #
 # Social Links
