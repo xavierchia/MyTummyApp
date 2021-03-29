@@ -93,8 +93,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: MyTummy App # Optional - Enter your site title
-description: Love eating but hate your waistline? # Optional - Enter your site description
+title: EmoTummy App # Optional - Enter your site title
+description: Your emotional eating friend # Optional - Enter your site description
 
 #
 # Google Analytics
