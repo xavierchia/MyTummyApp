@@ -99,7 +99,7 @@ description: Your emotional eating friend # Optional - Enter your site descripti
 #
 # Google Analytics
 #
-google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-193462695-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # !! You don't need to change any of the configuration flags below !!
